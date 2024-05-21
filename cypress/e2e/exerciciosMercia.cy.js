@@ -1,4 +1,4 @@
-describe('Login', () => {
+describe('Login da Mércia', () => {
 
     beforeEach( () =>{
   // Visitar a página
